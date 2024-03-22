@@ -157,9 +157,9 @@
 
   - type: extra-data
     filename: PGTOS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/PGTOS__20240310_20240310205608.zip
-    size: 1421
-    sha256: 72bf2237de97e46c9a12fbf531bb7bebbaa991312b2916bd501fe4aee161b2b3
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/PGTOS__20240322_20240322021538.zip
+    size: 1373
+    sha256: 1303950ac9bc45c5d6541f77d2f23354f1e014d14f9e2889f3ad51a17d6132b0
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
