@@ -135,9 +135,9 @@
 
   - type: extra-data
     filename: OCPRI.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/OCPRI__20240310_20240310205608.zip
-    size: 4244
-    sha256: 228fadd156eb2d8ea0572a12a148ac99c0ced68f57afabbf5c3861d3a74154f5
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/OCPRI__20240423_20240423021605.zip
+    size: 4254
+    sha256: a1af136054b4e679c266fbadc1d3d2b55bace0d7373a1ac37c6c960bddd5fbe8
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
