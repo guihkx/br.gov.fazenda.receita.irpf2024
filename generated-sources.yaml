@@ -123,6 +123,17 @@
       url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/MSGS__$version.zip
 
   - type: extra-data
+    filename: MUNCL.zip
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/MUNCL__20240601_20240601093248.zip
+    size: 4331
+    sha256: 7eb6024abcad6d9c3b22f561eb8839d33f0d2e8af9e15f19d9fe102169acc974
+    x-checker-data:
+      type: html
+      url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
+      version-pattern: MUNCL__([\d_]+)\.zip
+      url-template: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/MUNCL__$version.zip
+
+  - type: extra-data
     filename: NATOC.zip
     url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/NATOC__20221227_20230308072724.zip
     size: 1071
