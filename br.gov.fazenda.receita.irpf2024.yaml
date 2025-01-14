@@ -87,7 +87,7 @@ modules:
       - type: file
         path: br.gov.fazenda.receita.irpf2024.desktop
       - type: file
-        path: icons/icon-256.png
+        path: icon-256.png
       - type: extra-data
         filename: irpf.zip
         url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/arquivos/IRPF2024-1.6.zip
