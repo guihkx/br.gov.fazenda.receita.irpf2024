@@ -157,9 +157,9 @@
 
   - type: extra-data
     filename: PAIS.zip
-    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/PAIS__20221227_20230308072724.zip
-    size: 3641
-    sha256: ff57272f3ea46411e6df472d3f475002e39d3cbb9fc9aebcaa62c83643549c64
+    url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/PAIS__20250430_20250430021622.zip
+    size: 3644
+    sha256: b20a9e5ba4cafa002db6391136feea5214337ec2d2d0f675c002ac8c4e55e60c
     x-checker-data:
       type: html
       url: https://downloadirpf.receita.fazenda.gov.br/irpf/2024/irpf/update/latest.xml
